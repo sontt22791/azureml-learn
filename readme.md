@@ -5,7 +5,13 @@
 Nếu ko thể đky free trial, có thể sử dụng lab enviroment trong khóa của udacity
 
 # I. BASIC AZUREML
-basic ml và azureml webUI mình đã học khóa  [Introduction to Machine Learning on Azure - Udacity](https://classroom.udacity.com/courses/ud00333) và đọc qua learning path lesson 1 & lesson 2 (có thể bỏ qua lesson 1 & 2 trong learning path)
+
+
+[UDACITY COURSE NOTE](https://github.com/sontt22791/azureml-learn/blob/1e7e0b638d2bcb401519ad721d784b3a7622c604/introduce%20-%20dacity)
+
+
+- basic ml và azureml webUI mình đã học khóa  [Introduction to Machine Learning on Azure - Udacity](https://classroom.udacity.com/courses/ud00333) và đọc qua learning path lesson 1 & lesson 2 (có thể bỏ qua lesson 1 & 2 trong learning path)
+
 
 Các link nên đọc:
 
